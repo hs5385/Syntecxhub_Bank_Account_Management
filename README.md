@@ -73,7 +73,3 @@ Follow the on-screen menu instructions to interact with the system:
 - [ ] Add Deposit and Withdrawal functionality.
 - [ ] Integrate Transaction History for each account.
 - [ ] Add input validation and error handling.
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
